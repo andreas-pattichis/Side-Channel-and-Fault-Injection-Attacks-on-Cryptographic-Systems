@@ -1,6 +1,6 @@
 # Side-Channel and Fault Injection Attacks on Cryptographic Systems
 
-This repository contains comprehensive implementations and analyses of various physical attacks on cryptographic systems, including template attacks, deep learning-based side-channel analysis, and fault injection attacks.
+This repository contains implementations and analyses of various physical attacks on cryptographic systems, including template attacks, deep learning-based side-channel analysis, and fault injection attacks.
 
 ## Contents
 
