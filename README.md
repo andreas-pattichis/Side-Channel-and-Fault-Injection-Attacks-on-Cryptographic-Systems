@@ -10,7 +10,6 @@ The repository includes the following files:
 2. **`assignment_2B_DL.ipynb`**: Jupyter notebook containing the Deep Learning Attack on ECC.
 3. **`initial_main.c`**: Initial implementation of password verification code vulnerable to fault injection.
 4. **`robust_main.c`**: Improved fault-resistant implementation with multiple security enhancements.
-5. **`report.pdf`**: Detailed report documenting all methodologies, analyses, and findings.
 
 ## Overview of the Project
 
